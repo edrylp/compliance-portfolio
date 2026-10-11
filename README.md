@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-**Live Demo:** <https://compliance-portfolio-rosy.vercel.app/>
+**Live Demo:** <https://edryl.vercel.app/>
 
 ## About
 
@@ -44,7 +44,7 @@ This portfolio showcases my experience in regulatory compliance and highlights p
 ## Running Locally
 
 ```bash
-git clone https://github.com/deyperfect/compliance-portfolio.git
+git clone https://github.com/edrylp/compliance-portfolio.git
 cd compliance-portfolio
 npm install
 npm run dev
