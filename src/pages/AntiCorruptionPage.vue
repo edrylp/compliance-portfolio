@@ -81,7 +81,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#conduct">
 
-                📖 Anti-Corruption Code of Conduct
+                <strong>Anti-Corruption Code of Conduct</strong>
 
               </button>
 
@@ -99,9 +99,9 @@
                 </p>
 
                 <ul>
-                  <li>Revise the Code of Conduct.</li>
-                  <li>Clearly define prohibited behavior.</li>
-                  <li>Require employee acknowledgment.</li>
+                  <li>Revise the Code of Conduct to incorporate a dedicated Anti-Corruption Policy.</li>
+                  <li>Clearly state the prohibition of bribery, facilitation payments, gifts, or any actions intended to influence foreign officials.</li>
+                  <li>Roll out the revised Code of Conduct and require a written acknowledgment from all employees.</li>
                 </ul>
 
               </div>
@@ -119,7 +119,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#training">
 
-                🎓 Annual Anti-Corruption Training
+                <strong>Annual Anti-Corruption Training Program</strong>
 
               </button>
 
@@ -136,9 +136,9 @@
                 </p>
 
                 <ul>
-                  <li>Mandatory participation.</li>
-                  <li>Scenario-based learning.</li>
-                  <li>Knowledge assessments.</li>
+                  <li>Mandatory participation for all support employees, senior management, and Board of Directors.</li>
+                  <li>Delivery through either in-person or online modules, focused on real world scenarios related to the industry.</li>
+                  <li>Post training assessments to measure understanding and to reinforce key concepts.</li>
                 </ul>
 
               </div>
@@ -159,23 +159,35 @@
           Third-Party Risk Management
         </h2>
 
-        <div class="row g-4">
+        <div class="accordion" id="employeeAccordion">
 
-          <div class="col-md-6">
+          <div class="accordion-item">
 
-            <div class="card h-100 shadow-sm">
+            <h2 class="accordion-header">
 
-              <div class="card-body">
+              <button
+                class="accordion-button"
+                data-bs-toggle="collapse"
+                data-bs-target="#edd">
 
-                <h5 class="fw-bold">
-                  Enhanced Due Diligence
-                </h5>
+                <strong>Enhanced Due Diligence</strong> 
 
-                <p class="small text-muted">
-                  Recommend performing comprehensive vendor due diligence
-                  before engagement, including background checks, sanctions
-                  screening, and corruption risk assessments.
+              </button>
+
+            </h2>
+
+            <div id="edd" class="accordion-collapse collapse show">
+
+              <div class="accordion-body">
+
+                <p>
+                  Recommend performing comprehensive vendor due diligence before engagement, including background checks, sanctions screening, and corruption risk assessments.
                 </p>
+
+                <ul>
+                  <li>Utilizing reputable due diligence platforms such as LexisNexis to conduct background checks and assess risk.</li>
+                  <li>Reviewing of red flags, unusual payments, or any other risk factors identified during screening.</li>
+                </ul>
 
               </div>
 
@@ -183,21 +195,34 @@
 
           </div>
 
-          <div class="col-md-6">
+          <div class="accordion-item">
 
-            <div class="card h-100 shadow-sm">
+            <h2 class="accordion-header">
 
-              <div class="card-body">
+              <button
+                class="accordion-button collapsed"
+                data-bs-toggle="collapse"
+                data-bs-target="#safeguards">
 
-                <h5 class="fw-bold">
-                  Contractual Safeguards
-                </h5>
+                <strong>Contractual Safeguards</strong> 
 
-                <p class="small text-muted">
-                  Include anti-corruption clauses, compliance certifications,
-                  and termination rights within third-party agreements to
-                  strengthen accountability.
+              </button>
+
+            </h2>
+
+            <div id="safeguards" class="accordion-collapse collapse">
+
+              <div class="accordion-body">
+
+                <p>
+                  Include anti-corruption clauses, compliance certifications, and termination rights within third-party agreements to strengthen accountability.
                 </p>
+
+                <ul>
+                  <li>A requirement that the third-party comply with all applicable anti-corruption and bribery laws in all jurisdiction where business is conducted.</li>
+                  <li>An acknowledgment from the third-party confirming adherence to anti-corruption and bribery laws aligned to our policies.</li>
+                  <li>A right for the company to terminate the business relationship immediately in the event of any breach.</li>
+                </ul>
 
               </div>
 
@@ -262,14 +287,6 @@
               <td>Third-Party Contracts</td>
 
               <td>Anti-bribery clauses and termination rights.</td>
-
-            </tr>
-
-            <tr>
-
-              <td>Governance</td>
-
-              <td>Stronger oversight and accountability.</td>
 
             </tr>
 
