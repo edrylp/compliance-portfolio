@@ -82,7 +82,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#notice">
 
-                📄 Notice & Transparency
+                Notice & Transparency
 
               </button>
 
@@ -97,18 +97,25 @@
                 <p>
                   Recommended that customers receive a clear and accessible
                   privacy notice before creating an account. The notice should
-                  explain what information is collected, why it is collected,
-                  how it will be used, who it may be shared with, how long it
-                  will be retained, and the rights available to customers.
+                  explain the following:
                 </p>
+
+                <ul>
+                  <li>what data will be collected</li>
+                  <li>why it is being collected</li>
+                  <li>how it will be used</li>
+                  <li>who it will be shared with</li>
+                  <li>how long it will be kept</li>
+                  <li>what rights do they have</li>
+                  <li>how they can contact us for any questions or complaints</li>
+                </ul>
 
                 <h6 class="fw-bold">
                   Why It Matters
                 </h6>
 
                 <p class="mb-0">
-                  Transparency promotes informed consent, builds customer trust,
-                  and reduces the risk of misleading privacy practices.
+                  This matters because it establishes transparency and informed consent. If customers understand what data is being collected and for what purpose, they can make an informed decision. This will also reduce risks and prevent claims that the company misled customers regarding data practices.
                 </p>
 
               </div>
@@ -128,7 +135,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#security">
 
-                🔐 Security
+                Security
 
               </button>
 
@@ -177,7 +184,7 @@
 
         <div class="row g-4">
 
-          <div class="col-md-6">
+          <div class="col-md-12">
 
             <div class="card h-100 shadow-sm">
 
@@ -187,11 +194,19 @@
                   Privacy Policy Review
                 </h5>
 
-                <p class="small text-muted">
-                  Recommend reviewing all privacy notices before launch to
+                <p>
+                  Review all privacy notices before launch to
                   ensure every statement regarding data collection, storage,
                   sharing, and third-party services is accurate and
                   transparent.
+                </p>
+
+                <h6 class="fw-bold">
+                  Importance
+                </h6>
+
+                <p class="mb-0">
+                  Most of the actions taken by the FTC is due to deception. Ensuring accuracy and honesty in the privacy policy will protect EatFresh from the possible unfair methods stated in the <strong>Section 5</strong> of the FTC Act.
                 </p>
 
               </div>
@@ -200,7 +215,7 @@
 
           </div>
 
-          <div class="col-md-6">
+          <div class="col-md-12">
 
             <div class="card h-100 shadow-sm">
 
@@ -210,10 +225,21 @@
                   ISO 27001 Security Principles
                 </h5>
 
-                <p class="small text-muted">
-                  Recommend implementing security controls aligned with the
-                  principles of Confidentiality, Integrity, and Availability
-                  (CIA) to strengthen information security.
+                <p>
+                  Eatfresh to adapt the three core principles of information security in ISO 27001.
+                </p>
+                <ul>
+                  <li>Confidentiality: Ensure that only authorized personnel have access to restricted data.</li>
+                  <li>Information Integrity: Ensure that the data collected is reliably stored, not erased or altered.</li>
+                  <li>Availability of Data: Ensure that the data will remain accessible when needed for operations or customer use.</li>
+                </ul>
+                
+                <h6 class="fw-bold">
+                  Importance
+                </h6>
+
+                <p class="mb-0">
+                  The FTC penalizes companies for unreasonable practice of security. Having a structured security program ensures that the company uses a recognized standard and takes steps in protecting customer data.
                 </p>
 
               </div>
