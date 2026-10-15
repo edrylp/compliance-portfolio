@@ -105,7 +105,7 @@
                 type="button"
                 data-bs-toggle="collapse"
                 data-bs-target="#financial">
-                💲 Financial Risks
+                <strong>Financial Risks</strong>
               </button>
             </h2>
 
@@ -122,10 +122,10 @@
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Monitor supplier pricing trends.</li>
-                  <li>Work with multiple suppliers.</li>
-                  <li>Negotiate long-term contracts.</li>
-                  <li>Adjust pricing and diversify menu offerings.</li>
+                  <li>Constantly monitor market and supplier price trends.</li>
+                  <li>Source from multiple approved and reputable suppliers to get the best pricing.</li>
+                  <li>Look for long-term contracts for better pricing.</li>
+                  <li>Adjust menu pricing if needed, offer seasonal drinks and non coffee beverages.</li>
                 </ul>
 
                 <hr>
@@ -135,13 +135,13 @@
                 </h6>
 
                 <p>
-                  Seasonal demand and external factors may reduce daily revenue.
+                  Daily sales might fluctuate due to weather, holidays, and other factors. Low sales might affect ability to cover salaries, rent, ingredients and others.
                 </p>
 
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Track daily sales.</li>
+                  <li>Monitor and track daily sales for easier analysis.</li>
                   <li>Implement loyalty programs.</li>
                   <li>Partner with delivery platforms.</li>
                 </ul>
@@ -161,7 +161,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#operational">
 
-                ⚙️ Operational Risks
+                Operational Risks
 
               </button>
 
@@ -176,15 +176,15 @@
                 </h6>
 
                 <p>
-                  Severe weather may interrupt business operations.
+                  The country is prone to typhoons which could lead to power outages. Unexpected power interruptions due to typhoons or local outage can disrupt store operations.
                 </p>
 
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Backup generator.</li>
-                  <li>UPS for critical systems.</li>
-                  <li>Employee response procedures.</li>
+                  <li>Maintain a generator to remain in operation even when power is not available.</li>
+                  <li>UPS system for POS and computer/s to prevent data loss.</li>
+                  <li>Train staff on how to handle power outage situations.</li>
                 </ul>
 
                 <hr>
@@ -194,16 +194,16 @@
                 </h6>
 
                 <p>
-                  POS or coffee equipment failures may disrupt customer service.
+                  POS or coffee equipment failures may disrupt service operations.
                 </p>
 
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Preventive maintenance.</li>
-                  <li>Reliable equipment vendors.</li>
-                  <li>Manual order procedures.</li>
-                  <li>Staff troubleshooting training.</li>
+                  <li>Have a regular maintenance schedule for POS and equipment</li>
+                  <li>Source equipment from reliable brands with after sales support.</li>
+                  <li>Train baristas on proper handling and troubleshooting.</li>
+                  <li>Train baristas on how to do manual order taking as a backup.</li>
                 </ul>
 
               </div>
@@ -223,7 +223,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#reputation">
 
-                ™️ Reputational Risks
+                Reputational Risks
 
               </button>
 
@@ -244,9 +244,9 @@
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Clear pet guidelines.</li>
-                  <li>Designated pet area.</li>
-                  <li>Cleaning procedures.</li>
+                  <li>Have signs available that the store is pet friendly but ensure that pet owners are responsible for any damages.</li>
+                  <li>Have a designated pet-friendly space.</li>
+                  <li>Cleaning tools should always be available and ready.</li>
                 </ul>
 
                 <hr>
@@ -262,9 +262,9 @@
                 <strong>Mitigation</strong>
 
                 <ul>
-                  <li>Dedicated work area.</li>
-                  <li>Staff communication training.</li>
-                  <li>Peak-hour seating policy.</li>
+                  <li>Have a designated zone for work/study and casual dining.</li>
+                  <li>Train staff on how to communicate politely and handle escalation.</li>
+                  <li>Have time-limit guidelines during peak hours.</li>
                 </ul>
 
               </div>
@@ -284,7 +284,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#compliance">
 
-                ⚖️ Compliance Risks
+                Compliance Risks
 
               </button>
 
@@ -303,26 +303,51 @@
                   of personal data.
                 </p>
 
+                <strong>Mitigation</strong>
+
+                <ul>
+                  <li>Make sure that customers are aware of what data is being collected and how it will be used.</li>
+                  <li>Privacy Notice should be available.</li>
+                  <li>Ensure customer data is secure and limited to authorized personnel only.</li>
+                </ul>
+
                 <hr>
 
                 <h6 class="fw-bold">
-                  Senior Citizen & PWD Discounts
+                  Senior Citizen & PWD Discounts (RA 9994 & RA 10754)
                 </h6>
 
                 <p>
                   Compliance with mandatory discounts under Philippine law.
                 </p>
 
+                <strong>Mitigation</strong>
+
+                <ul>
+                  <li>Train staff about the procedure on how to honor and validate discounts.</li>
+                  <li>POS can be configured to automatically apply discounts for Senior Citizens and PWDs.</li>
+                  <li>Documentation is essential to ensure compliance.</li>
+                </ul>
+
                 <hr>
 
                 <h6 class="fw-bold">
-                  Food Safety & Sanitation
+                  Food Safety & Sanitation (RA 10611 and PD 856)
                 </h6>
 
                 <p>
                   Pet-friendly operations introduce additional sanitation
                   considerations that must comply with food safety regulations.
                 </p>
+
+                <strong>Mitigation</strong>
+
+                <ul>
+                  <li>Designated pet-friendly space should be far from the food preparation area.</li>
+                  <li>Strict guidelines for pet owner regarding pet supervision and sanitation.</li>
+                  <li>Conduct routine inspections to stay compliant with sanitation laws.</li>
+                  <li>Staff should be trained on sanitation protocols.</li>
+                </ul>
 
               </div>
 
