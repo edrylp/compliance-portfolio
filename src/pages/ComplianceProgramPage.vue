@@ -80,7 +80,7 @@
                 class="accordion-button"
                 data-bs-toggle="collapse"
                 data-bs-target="#conduct">
-                ❤️ Code of Conduct
+                The Anxious Bean Code of Conduct
               </button>
             </h2>
 
@@ -88,21 +88,23 @@
               <div class="accordion-body">
 
                 <p>
-                  Developed a simplified Code of Conduct that establishes clear
+                  Establish a simplified Code of Conduct that establishes clear
                   expectations for ethical behavior and daily decision-making
-                  across all branches.
+                  across all branches. It will be posted in stores for visibility. 
                 </p>
 
                 <h6 class="fw-bold">Core Values</h6>
 
                 <ul>
-                  <li>Vigilance</li>
-                  <li>Diligence</li>
-                  <li>Reliability</li>
-                  <li>Integrity</li>
+                  <li>Vigilance - We stay aware of customer and store needs, acting proactively to stay ahead.</li>
+                  <li>Diligence - We commit to persistence and quality, performing at a high standard.</li>
+                  <li>Reliability - We remain dependable to our customers, colleagues, and partners.</li>
+                  <li>Integrity - We always do the right thing, even when no one is watching.</li>
                 </ul>
 
                 <p class="mb-0">
+                  <strong>Why:</strong>
+                  <br>
                   The Code of Conduct provides employees with a shared
                   understanding of the organization's values while reinforcing
                   its commitment to ethical business practices.
@@ -120,7 +122,7 @@
                 class="accordion-button collapsed"
                 data-bs-toggle="collapse"
                 data-bs-target="#hotline">
-                ☎️ Anonymous Reporting Hotline
+                Anonymous Reporting Hotline
               </button>
             </h2>
 
@@ -128,15 +130,15 @@
               <div class="accordion-body">
 
                 <p>
-                  Proposed a confidential reporting channel that allows
+                  Establish a confidential reporting channel that allows
                   employees, customers, and business partners to report
                   suspected misconduct without fear of retaliation.
                 </p>
 
                 <p class="mb-0">
-                  Anonymous reporting supports transparency, encourages early
-                  detection of issues, and enables consistent investigation and
-                  resolution procedures.
+                  <strong>Why:</strong>
+                  <br>
+                  Encouraging employees, customers, and partners to speak up promotes trust, transparency, and early detection. Early detection will reduce potential risks and reputational damage. A formal system ensures timely and consistent actions.
                 </p>
 
               </div>
@@ -151,7 +153,7 @@
                 class="accordion-button collapsed"
                 data-bs-toggle="collapse"
                 data-bs-target="#training">
-                💻 Role-Based Compliance Training
+                Role-Based Compliance Training
               </button>
             </h2>
 
@@ -159,15 +161,13 @@
               <div class="accordion-body">
 
                 <p>
-                  Designed a structured training program tailored to employee
-                  responsibilities, covering food safety, incident reporting,
-                  regulatory requirements, and operational procedures.
+                  Implement a structured, role-specific compliance training program covering food safety, regulations, incident reporting, and cash handling protocols. Managers will receive additional training on supervisory responsibilities and disciplinary actions. 
                 </p>
 
                 <p class="mb-0">
-                  Managers receive additional instruction on leadership,
-                  investigations, and disciplinary responsibilities to ensure
-                  compliance expectations are consistently enforced.
+                  <strong>Why:</strong>
+                  <br>
+                  Company culture welcomes many first-time employees and individuals with different levels of experience. Role-based training increases comprehension and consistent behavior across branches.
                 </p>
 
               </div>
@@ -188,41 +188,53 @@
 
         <div class="row g-4">
 
-          <div class="col-md-4">
+          <div class="col-md-12">
             <div class="card h-100 shadow-sm">
               <div class="card-body">
 
                 <h5 class="fw-bold">
-                  Store Audits
+                  Regular Store Audits
                 </h5>
 
-                <p class="small text-muted mb-0">
+                <p>
                   Conduct scheduled and surprise audits to verify compliance
                   with food safety, sanitation, and operational standards.
                 </p>
 
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="card h-100 shadow-sm">
-              <div class="card-body">
-
-                <h5 class="fw-bold">
-                  Recognition Program
-                </h5>
-
-                <p class="small text-muted mb-0">
-                  Reward ethical behavior by incorporating compliance into
-                  employee performance evaluations and recognition programs.
+                <p class="mb-0">
+                  <strong>Why:</strong>
+                  <br>
+                  Audits will reinforce awareness of compliance expectations and ensure commitment to procedures. This will also help identify gaps and ensure that our standards are consistently applied across all branches.
                 </p>
 
               </div>
             </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-md-12">
+            <div class="card h-100 shadow-sm">
+              <div class="card-body">
+
+                <h5 class="fw-bold">
+                  Compliance Recognition Program
+                </h5>
+
+                <p>
+                  Reward ethical behavior by incorporating compliance into
+                  employee performance evaluations and recognition programs.
+                </p>
+
+                <p class="mb-0">
+                  <strong>Why:</strong>
+                  <br>
+                  This strategy aligns incentives with ethical conduct. When employees understand that good compliance is key to being a successful employee, they are more motivated to own it.
+                </p>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12">
             <div class="card h-100 shadow-sm">
               <div class="card-body">
 
@@ -230,9 +242,15 @@
                   Refresher Training
                 </h5>
 
-                <p class="small text-muted mb-0">
+                <p>
                   Deliver annual refresher training to reinforce key compliance
                   topics and keep employees informed about regulatory updates.
+                </p>
+
+                <p class="mb-0">
+                  <strong>Why:</strong>
+                  <br>
+                  Regular refresher training ensures employees are kept current on regulatory updates. This will help prove employee competency and company dedication to regulators and stakeholders.
                 </p>
 
               </div>
