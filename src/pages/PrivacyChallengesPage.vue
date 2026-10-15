@@ -82,7 +82,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#notice">
 
-                Notice & Transparency
+                <strong>Notice & Transparency</strong>
 
               </button>
 
@@ -135,7 +135,7 @@
                 data-bs-toggle="collapse"
                 data-bs-target="#security">
 
-                Security
+                <strong>Security</strong>
 
               </button>
 
